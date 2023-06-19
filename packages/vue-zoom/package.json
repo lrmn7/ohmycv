@@ -1,18 +1,18 @@
 {
-  "name": "@renovamen/vue-zoom",
+  "name": "@lrmn7/vue-zoom",
   "version": "0.1.0",
   "description": "Vue 3 component for zooming content.",
-  "homepage": "https://github.com/Renovamen/oh-my-cv/tree/main/packages/vue-zoom",
+  "homepage": "https://github.com/lrmn7/ohmycv/tree/main/packages/vue-zoom",
   "bugs": {
-    "url": "https://github.com/Renovamen/oh-my-cv"
+    "url": "https://github.com/lrmn7/ohmycv"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Renovamen/oh-my-cv.git",
+    "url": "git+https://github.com/lrmn7/ohmycv.git",
     "directory": "packages/vue-zoom"
   },
   "license": "MIT",
-  "author": "Renovamen <renovamenzxh@gmail.com>",
+  "author": "lrmn7 <lrmn.dev@gmail.com>",
   "files": [
     "dist"
   ],

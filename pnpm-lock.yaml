@@ -1,5 +1,9 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 importers:
 
   .:
@@ -106,7 +110,7 @@ importers:
 
   packages/vue-shortcuts:
     dependencies:
-      '@renovamen/utils':
+      '@lrmn7/utils':
         specifier: workspace:0.1.0
         version: link:../utils
       '@vueuse/core':
@@ -118,7 +122,7 @@ importers:
 
   packages/vue-smart-pages:
     dependencies:
-      '@renovamen/dynamic-css':
+      '@lrmn7/dynamic-css':
         specifier: workspace:0.1.0
         version: link:../dynamic-css
       ts-debounce:
@@ -139,16 +143,16 @@ importers:
 
   site:
     dependencies:
-      '@renovamen/dynamic-css':
+      '@lrmn7/dynamic-css':
         specifier: workspace:0.1.0
         version: link:../packages/dynamic-css
-      '@renovamen/utils':
+      '@lrmn7/utils':
         specifier: workspace:0.1.0
         version: link:../packages/utils
-      '@renovamen/vue-shortcuts':
+      '@lrmn7/vue-shortcuts':
         specifier: workspace:0.1.0
         version: link:../packages/vue-shortcuts
-      '@renovamen/vue-zoom':
+      '@lrmn7/vue-zoom':
         specifier: workspace:0.1.0
         version: link:../packages/vue-zoom
       '@unocss/reset':
@@ -215,10 +219,10 @@ importers:
       '@intlify/unplugin-vue-i18n':
         specifier: ^0.11.0
         version: 0.11.0(rollup@2.79.1)(vue-i18n@9.3.0-beta.14-77e850b)
-      '@renovamen/front-matter':
+      '@lrmn7/front-matter':
         specifier: workspace:0.1.0
         version: link:../packages/front-matter
-      '@renovamen/markdown-it-katex':
+      '@lrmn7/markdown-it-katex':
         specifier: workspace:0.1.0
         version: link:../packages/markdown-it-katex
       '@types/markdown-it-link-attributes':

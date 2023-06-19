@@ -1,5 +1,5 @@
 {
-  "name": "@renovamen/markdown-it-katex",
+  "name": "@lrmn7/markdown-it-katex",
   "version": "0.1.0",
   "description": "Fast math support for markdown-it with KaTeX",
   "keywords": [
@@ -10,17 +10,17 @@
     "markdown-it-plugin",
     "markdown-it"
   ],
-  "homepage": "https://github.com/Renovamen/oh-my-cv/tree/main/packages/markdown-it-katex",
+  "homepage": "https://github.com/lrmn7/ohmycv/tree/main/packages/markdown-it-katex",
   "bugs": {
-    "url": "https://github.com/Renovamen/oh-my-cv"
+    "url": "https://github.com/lrmn7/ohmycv"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Renovamen/oh-my-cv.git",
+    "url": "git+https://github.com/lrmn7/ohmycv.git",
     "directory": "packages/markdown-it-katex"
   },
   "license": "MIT",
-  "author": "Renovamen <renovamenzxh@gmail.com>",
+  "author": "lrmn7 <lrmn.dev@gmail.com>",
   "files": [
     "dist"
   ],

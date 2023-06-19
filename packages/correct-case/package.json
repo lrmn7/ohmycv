@@ -2,17 +2,17 @@
   "name": "correct-case",
   "version": "0.1.0",
   "description": "Make the case correct (dictionaries are from `case-police`).",
-  "homepage": "https://github.com/Renovamen/oh-my-cv/tree/main/packages/correct-case",
+  "homepage": "https://github.com/lrmn/ohmycv/tree/main/packages/correct-case",
   "bugs": {
-    "url": "https://github.com/Renovamen/oh-my-cv"
+    "url": "https://github.com/lrmn/ohmycv"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Renovamen/oh-my-cv.git",
+    "url": "git+https://github.com/lrmn/ohmycv.git",
     "directory": "packages/correct-case"
   },
   "license": "MIT",
-  "author": "Renovamen <renovamenzxh@gmail.com>",
+  "author": "lrmn <lrmn.dev@gmail.com>",
   "files": [
     "dist"
   ],

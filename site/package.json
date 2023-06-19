@@ -8,10 +8,10 @@
     "serve": "vite preview --port 8000 --host"
   },
   "dependencies": {
-    "@renovamen/dynamic-css": "workspace:0.1.0",
-    "@renovamen/utils": "workspace:0.1.0",
-    "@renovamen/vue-shortcuts": "workspace:0.1.0",
-    "@renovamen/vue-zoom": "workspace:0.1.0",
+    "@lrmn7/dynamic-css": "workspace:0.1.0",
+    "@lrmn7/utils": "workspace:0.1.0",
+    "@lrmn7/vue-shortcuts": "workspace:0.1.0",
+    "@lrmn7/vue-zoom": "workspace:0.1.0",
     "@unocss/reset": "^0.52.3",
     "@vueuse/components": "^10.1.2",
     "@vueuse/core": "^10.1.2",
@@ -35,8 +35,8 @@
   },
   "devDependencies": {
     "@intlify/unplugin-vue-i18n": "^0.11.0",
-    "@renovamen/front-matter": "workspace:0.1.0",
-    "@renovamen/markdown-it-katex": "workspace:0.1.0",
+    "@lrmn7/front-matter": "workspace:0.1.0",
+    "@lrmn7/markdown-it-katex": "workspace:0.1.0",
     "@types/markdown-it-link-attributes": "^3.0.1",
     "@types/nprogress": "^0.2.0",
     "@types/splitpanes": "^2.2.1",

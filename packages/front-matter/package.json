@@ -1,5 +1,5 @@
 {
-  "name": "@renovamen/front-matter",
+  "name": "@lrmn7/front-matter",
   "version": "0.1.0",
   "description": "Extract YAML front matter from a string",
   "keywords": [
@@ -7,17 +7,17 @@
     "front matter",
     "meta data"
   ],
-  "homepage": "https://github.com/Renovamen/oh-my-cv/tree/main/packages/front-matter",
+  "homepage": "https://github.com/lrmn7/ohmycv/tree/main/packages/front-matter",
   "bugs": {
-    "url": "https://github.com/Renovamen/oh-my-cv"
+    "url": "https://github.com/lrmn7/ohmycv"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Renovamen/oh-my-cv.git",
+    "url": "git+https://github.com/lrmn7/ohmycv.git",
     "directory": "packages/front-matter"
   },
   "license": "MIT",
-  "author": "Renovamen <renovamenzxh@gmail.com>",
+  "author": "lrmn7 <lrmn.dev@gmail.com>",
   "files": [
     "dist"
   ],
