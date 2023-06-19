@@ -1,0 +1,69 @@
+lang: Bahasa
+toggle_dark: Beralih ke mode gelap
+
+head:
+  title: Oh My CV! - Pembuat Resume Online Gratis
+  desc: Pembuat resume online gratis yang memungkinkan anda membuat resume dalam hitungan menit dengan Markdown!
+  keywords: pembuat resume, pembuat CV, pembuat curriculum vitae, resume Markdown
+
+landing:
+  hero: Tulis <span text-brand>resume</span> anda dengan Markdown!
+  desc: adalah alat gratis dan sumber terbuka yang dibuat untuk membangun dan mengelola resume Anda dengan mudah, tanpa kehilangan privasi data Anda.
+  start: Buat Resume Saya
+  feats:
+    - title: Sederhana dan Kuat
+      items: Kelola beberapa resume<br>Pratinjau waktu nyata<br>Ekspor ke format PDF<br>Penuh kustomisasi<br>Pilih font dan tambahkan ikon<br>Dan <a href="https://github.com/lrmn7/oh-my-cv#features" target="_blank">lebih banyak fitur</a>
+    - title: Keutamaan Privasi
+      items: Sumber terbuka dan gratis<br>Data disimpan secara lokal<br>Tidak perlu masuk atau registrasi<br>Tidak ada pelacakan pengguna<br>Tidak ada iklan<br>Tidak ada data anda yang kami simpan
+
+resumes:
+  my_resumes: Resume Saya
+  created: "Dibuat: "
+  updated: "Diperbarui: "
+  new: Baru
+  save: Simpan
+  saveas: Simpan sebagai...
+  import: Impor dari...
+  rename: Ganti Nama
+  duplicate: Duplikat
+  delete: Hapus
+
+import:
+  title: Impor file Markdown
+  from_local: Unggah file
+  from_url: Tempelkan URL file
+
+toolbar:
+  file:
+    text: Impor / Ekspor
+    import: Impor Markdown
+    export_pdf: Ekspor PDF
+    export_md: Ekspor Markdown
+  correct_case:
+    text: Koreksi Kasus
+    desc: "Contoh: \"Github\" → \"GitHub\" <br> Catatan: kata-kata yang hanya terdiri dari huruf besar atau huruf kecil (\"GITHUB\" atau \"github\") akan tetap tidak berubah"
+    btn : Koreksi!
+  paper: Ukuran Kertas
+  font_family: Keluarga Font
+  font_size: Ukuran Font
+  cn: CJK
+  en: Inggris
+  theme_color: Warna Tema
+  paragraph: Spasi Paragraf
+  line: Spasi Baris
+  margin: Margin
+  vertical: Atas & Bawah
+  horizontal: Kiri & Kanan
+
+notification:
+  save: Perubahan Anda telah disimpan
+  switch: Beralih ke resume "{msg}"
+  delete: Resume "{msg}" telah dihapus
+  new: Resume baru telah dibuat
+  duplicate: Dibuat duplikasi "{new}" dari resume "{old}"
+  correct:
+    yes: Mengoreksi {num} kata
+    no : Semua kasus sudah benar!
+  import:
+    yes: Data berhasil diimpor!
+    no : Format data tidak valid.

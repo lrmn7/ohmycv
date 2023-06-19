@@ -1,0 +1,8 @@
+dist/
+node_modules/
+.vscode/
+*.log
+.DS_Store
+*.zip
+.env
+.env.local

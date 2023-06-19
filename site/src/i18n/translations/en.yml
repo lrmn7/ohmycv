@@ -1,0 +1,69 @@
+lang: Language
+toggle_dark: Toggle dark mode
+
+head:
+  title: Oh My CV! - Free Online Resume Maker
+  desc: Free online resume maker, allows you to create your resume in minutes with Markdown!
+  keywords: resume maker, cv maker, curriculum vitae maker, markdown resume
+
+landing:
+  hero: Write your <span text-brand>resume</span> in Markdown!
+  desc: is a free and open source tool created to build and manage your resumes as easy as possible, without losing the privacy of your data.
+  start: Create My Resume
+  feats:
+    - title: Simple and Powerful
+      items: Manage multiple resumes<br>Real-time preview<br>Export to PDF format<br>Fully customizable<br>Pick fonts and add icons<br>And <a href="https://github.com/Renovamen/oh-my-cv#features" target="_blank">more features</a>
+    - title: Privacy First
+      items: Open source and free<br>Data are saved locally<br>No login or registration required<br>No user tracking<br>No ads<br>We do not store any of your data
+
+resumes:
+  my_resumes: My Resumes
+  created: "Created: "
+  updated: "Updated: "
+  new: New
+  save: Save
+  saveas: Save as...
+  import: Import from...
+  rename: Rename
+  duplicate: Duplicate
+  delete: Delete
+
+import:
+  title: Import a Markdown file
+  from_local: Upload a file
+  from_url: Paste file URL
+
+toolbar:
+  file:
+    text: Import / Export
+    import: Import Markdown
+    export_pdf: Export PDF
+    export_md: Export Markdown
+  correct_case:
+    text: Correct Case
+    desc: "Example: \"Github\" → \"GitHub\" <br> Note: the words only including uppercase or lowercase (\"GITHUB\" or \"github\") will be left untouched"
+    btn : Correct it!
+  paper: Pape Size
+  font_family: Font Family
+  font_size: Font Size
+  cn: CJK
+  en: English
+  theme_color: Theme Color
+  paragraph: Paragraph Spacing
+  line: Line Spacing
+  margin: Margin
+  vertical: Top & Bottom
+  horizontal: Left & Right
+
+notification:
+  save: Your changes have been saved
+  switch: Switched to resume "{msg}"
+  delete: Resume "{msg}" has been deleted
+  new: New resume created
+  duplicate: Created resume "{old}"'s duplication "{new}"
+  correct:
+    yes: Corrected {num} words
+    no : All case are correct!
+  import:
+    yes: Data has been successfully imported!
+    no : Data format is invalid.
