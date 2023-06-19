@@ -589,7 +589,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "resumes.html",
-    "revision": "fe8ac03e74b48ec214baefdf5b5fa2f4"
+    "revision": "72bcc3324fe8ac4f7f19f3a35645f14c"
   }, {
     "url": "zh-cn/edit.html",
     "revision": "1e92c212323d7df0151b935136b40d8a"
