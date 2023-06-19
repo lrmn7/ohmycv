@@ -15,7 +15,7 @@
 </template>
 
 <script lang="ts" setup>
-import { useShortcuts } from "@renovamen/vue-shortcuts";
+import { useShortcuts } from "@lrmn7/vue-shortcuts";
 import { saveResumesToLocal, importResumesFromLocal } from "~/utils";
 
 defineEmits<{

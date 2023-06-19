@@ -35,7 +35,7 @@
 </template>
 
 <script lang="ts" setup>
-import Zoom from "@renovamen/vue-zoom";
+import Zoom from "@lrmn7/vue-zoom";
 import { getPaperPx } from "~/utils";
 
 const scale = ref(1);

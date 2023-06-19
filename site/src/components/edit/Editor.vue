@@ -30,7 +30,7 @@
 
 <script lang="ts" setup>
 import type * as Monaco from "monaco-editor";
-import { isClient } from "@renovamen/utils";
+import { isClient } from "@lrmn7/utils";
 import { setupMonacoEditor } from "~/monaco";
 
 const editorRef = ref<HTMLDivElement>();

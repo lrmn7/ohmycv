@@ -1,5 +1,5 @@
 import { defineStore } from "pinia";
-import { copy } from "@renovamen/utils";
+import { copy } from "@lrmn7/utils";
 import { setDynamicCss, DEFAULT_STYLES, resolveGoogleFont } from "~/utils";
 import type { ResumeStyles, Font } from "~/types";
 

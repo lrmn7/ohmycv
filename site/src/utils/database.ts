@@ -1,5 +1,5 @@
 import * as localForage from "localforage";
-import { downloadFile, uploadFile, copy } from "@renovamen/utils";
+import { downloadFile, uploadFile, copy } from "@lrmn7/utils";
 import {
   DEFAULT_STYLES,
   DEFAULT_NAME,

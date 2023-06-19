@@ -35,7 +35,7 @@
 </template>
 
 <script setup lang="ts">
-import { isExternal } from "@renovamen/utils";
+import { isExternal } from "@lrmn7/utils";
 import type { DropdownItem } from "~/types";
 
 defineProps<{

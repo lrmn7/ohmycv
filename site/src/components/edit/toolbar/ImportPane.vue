@@ -60,7 +60,7 @@
 </template>
 
 <script lang="ts" setup>
-import { fetchFile, uploadFile } from "@renovamen/utils";
+import { fetchFile, uploadFile } from "@lrmn7/utils";
 import { setResumeMd } from "~/utils";
 
 const { t } = useI18n();

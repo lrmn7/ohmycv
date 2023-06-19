@@ -1,4 +1,4 @@
-import { injectCSS } from "@renovamen/dynamic-css";
+import { injectCSS } from "@lrmn7/dynamic-css";
 import { PREVIEW_SELECTOR } from "~/utils";
 import type { ResumeStyles } from "~/types";
 

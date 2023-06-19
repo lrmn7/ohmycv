@@ -5,7 +5,7 @@
 </template>
 
 <script lang="ts" setup>
-import { useShortcuts } from "@renovamen/vue-shortcuts";
+import { useShortcuts } from "@lrmn7/vue-shortcuts";
 import { saveResume } from "~/utils";
 import type { ResumeStorageItem } from "~/types";
 
